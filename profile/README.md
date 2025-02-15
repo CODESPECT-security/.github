@@ -27,13 +27,15 @@ We leverage a range of technologies to provide top-notch security services:
 
 **Blockchain Platforms:**  
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)  
-![Starknet](https://img.shields.io/badge/Starknet-000000?style=for-the-badge&logo=starknet&logoColor=white)  
+![Starknet](https://img.shields.io/badge/Starknet-000000?style=for-the-badge&logo=starknet&logoColor=white) 
+![Fuel](https://img.shields.io/badge/Fuel-000000?style=for-the-badge&logo=fuel&logoColor=white)  
 ![Solana](https://img.shields.io/badge/Solana-4E44CE?style=for-the-badge&logo=solana&logoColor=white)
 
 **Programming Languages:**  
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)  
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)  
 ![Cairo](https://img.shields.io/badge/Cairo-4A4A4A?style=for-the-badge&logo=starknet&logoColor=white)
+![Sway](https://img.shields.io/badge/Sway-4A4A4A?style=for-the-badge&logo=fuelt&logoColor=white)
 
 ---
 
