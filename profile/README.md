@@ -53,7 +53,9 @@ We aim to empower blockchain projects by delivering **cutting-edge, security-foc
 | 002-Tempest Finance  | Smart Contract Audit      | Solidity         | ERC4626  - Management Protocol              | [📄 Report Not Public](#)                 |
 | 003-Tempest Finance  | Smart Contract Audit      | Solidity         | Token/Distributor             | [📄 Report Not Public](#)                 |
 | 004-RemusDex         | Smart Contract Audit      | Cairo            | Order Book | [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/004_CODESPECT_REMUSDEX_AUDIT.pdf) |
-| 006-Tempest Finance        | Smart Contract Audit      | Solidity        | Oracle changes | [📄 Report Not Public](#)   |
+| 005-AFK | Smart Contract Audit | Cairo | Launchpad | Awaiting for Fixes |
+| 006-Tempest Finance        | Smart Contract Audit      | Solidity        | Oracle changes | [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/006_CODESPECT_TEMPEST_BRIDGE_ORACLE.pdf)|
+| 007-Tempest Finance | Smart Contract Audit | Solidity | New Oracle Integration | [📄 Report Not Public](#) |
 
 
 ---
