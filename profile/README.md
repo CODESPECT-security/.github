@@ -69,7 +69,7 @@ We aim to empower blockchain projects by delivering **cutting-edge, security-foc
 We would love to collaborate with you! Feel free to reach out to us through any of the following channels:
 
 - 📧 Email: [contact@codespect.xyz](mailto:contact@codespect.xyz)
-- 🌐 Website: [codespect.xyz](https://codespect.xyz)
+- 🌐 Website: [codespect.xyz](https://codespect.net)
 - 🐦 Twitter (X): [@CODESPECT](https://x.com/CODESPECT)
 - 💼 LinkedIn: [CODESPECT](https://linkedin.com/company/codespect)
 
