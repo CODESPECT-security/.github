@@ -57,7 +57,7 @@ We aim to empower blockchain projects by delivering **cutting-edge, security-foc
 | 006-Tempest Finance        | Smart Contract Audit      | Solidity        | Oracle changes | [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/006_CODESPECT_TEMPEST_BRIDGE_ORACLE.pdf)|
 | 007-Tempest Finance | Smart Contract Audit | Solidity | New Oracle Integration | [📄 Report Not Public](#) |
 | 008-Tempest Finance | Smart Contract Audit | Solidity | New Integration/Feature | [📄 Report Not Public](#) |
-| 009-TokenTable | Smart Contract Audit | Rust/Solana | Token unlocker | Fix review phase |
+| 009-TokenTable | Smart Contract Audit | Rust/Solana | Token unlocker |  [📄 View Report]([https://github.com/CODESPECT-security/audit-reports/blob/main/CODESPECT_REDSTONE_AUDIT_ORACLES.pdf](https://github.com/CODESPECT-security/audit-reports/blob/main/009_CODESPECT_TOKENTABLE_SOLANA_UNLOCKER_V2.pdf)) |
 | 010-Sign | Smart Contract Audit | Solidity | ERC20/OFT adapter | [📄 Report Not Public](#) |
 
 
