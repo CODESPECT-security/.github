@@ -59,8 +59,9 @@ We aim to empower blockchain projects by delivering **cutting-edge, security-foc
 | 008-Tempest Finance | Smart Contract Audit | Solidity | New Integration/Feature | [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/008_CODESPECT_TEMPEST_DEPOSITIDLE_FEATURE.pdf) |
 | 009-TokenTable | Smart Contract Audit | Rust/Solana | Token unlocker |  [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/009_CODESPECT_TOKENTABLE_SOLANA_UNLOCKER_V2.pdf) |
 | 010-Sign | Smart Contract Audit | Solidity | ERC20/OFT adapter | [📄 Report Not Public](#) |
-| 011-TokenTable | Smart Contract Audit | Rust/Solana | --- | In Progress |
-| 012-TokenTable | Smart Contract Audit | Solidity | --- | In Progress |
+| 011-TokenTable | Smart Contract Audit | Rust/Solana | Merkle Token Distribtutor |  [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/011_CODESPECT_TOKENTABLE_SOLANA_MERKLE_AIRDROP.pdf) |
+| 011-TokenTable | Smart Contract Audit | Rust/Solana | Token Unlocker Update | [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/011_CODESPECT_TOKENTABLE_SOLANA_UNLOCKER_V2_FOLLOW_UP.pdf) |
+| 012-TokenTable | Smart Contract Audit | Solidity | Escrow |  [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/012_CODESPECT_TOKENTABLE_FRACTIONALIZER_AND_SELLNOW.pdf) |
 
 
 
