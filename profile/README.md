@@ -64,7 +64,7 @@ We aim to empower blockchain projects by delivering **cutting-edge, security-foc
 | 012-TokenTable | Smart Contract Audit | Solidity | Escrow |  [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/012_CODESPECT_TOKENTABLE_FRACTIONALIZER_AND_SELLNOW.pdf) |
 | 013-TokenTable | Smart Contract Audit | Solidity | Token Unlocker |  In Progress |
 | 014-Swell | Smart Contract Audit | Solidity | EigenLayer Withdrawal Update |  [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/014_CODESPECT_SWELL_WITHDRAWAL_UPDATE.pdf) |
-| 015-TokenTable | Smart Contract Audit | Solidity | ECDSA Token Distributor |  In Progress |
+| 015-TokenTable | Smart Contract Audit | Solidity | ECDSA Token Distributor |  [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/015_CODESPECT_TOKENTABLE_ECDSA_DISTRIBUTOR.pdf) |
 | 016-TokenTable | Smart Contract Audit | Solidity | Merkle TOken Distributor | In Progress |
 | 017-Swell| Smart Contract Audit | Solidity | Repricing Oracle Update |  [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/017_CODESPECT_SWELL_REPRICING_UPDATE.pdf) |
 
