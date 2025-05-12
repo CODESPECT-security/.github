@@ -53,7 +53,7 @@ We aim to empower blockchain projects by delivering **cutting-edge, security-foc
 | 002-Tempest Finance  | Smart Contract Audit      | Solidity         | ERC4626  - Management Protocol              | [📄 Report Not Public](#)                 |
 | 003-Tempest Finance  | Smart Contract Audit      | Solidity         | Token/Distributor             | [📄 Report Not Public](#)                 |
 | 004-RemusDex         | Smart Contract Audit      | Cairo            | Order Book | [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/004_CODESPECT_REMUSDEX_AUDIT.pdf) |
-| 005-AFK | Smart Contract Audit | Cairo | Launchpad | [📄 Report Not Public Yet](#) |
+| 005-AFK | Smart Contract Audit | Cairo | Launchpad | [📄 Report Not Public](#) |
 | 006-Tempest Finance        | Smart Contract Audit      | Solidity        | Oracle changes | [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/006_CODESPECT_TEMPEST_BRIDGE_ORACLE.pdf)|
 | 007-Tempest Finance | Smart Contract Audit | Solidity | New Oracle Integration | [📄 Report Not Public](#) |
 | 008-Tempest Finance | Smart Contract Audit | Solidity | New Integration/Feature | [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/008_CODESPECT_TEMPEST_DEPOSITIDLE_FEATURE.pdf) |
@@ -62,10 +62,10 @@ We aim to empower blockchain projects by delivering **cutting-edge, security-foc
 | 011-TokenTable | Smart Contract Audit | Rust/Solana | Merkle Token Distribtutor |  [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/011_CODESPECT_TOKENTABLE_SOLANA_MERKLE_AIRDROP.pdf) |
 | 011-TokenTable | Smart Contract Audit | Rust/Solana | Token Unlocker Update | [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/011_CODESPECT_TOKENTABLE_SOLANA_UNLOCKER_V2_FOLLOW_UP.pdf) |
 | 012-TokenTable | Smart Contract Audit | Solidity | Escrow |  [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/012_CODESPECT_TOKENTABLE_FRACTIONALIZER_AND_SELLNOW.pdf) |
-| 013-TokenTable | Smart Contract Audit | Solidity | Token Unlocker |  In Progress |
+| 013-TokenTable | Smart Contract Audit | Solidity | Token Unlocker |  [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/013_CODESPECT_TOKENTABLE_UNLOCKERV2_EVM.pdf) |
 | 014-Swell | Smart Contract Audit | Solidity | EigenLayer Withdrawal Update |  [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/014_CODESPECT_SWELL_WITHDRAWAL_UPDATE.pdf) |
 | 015-TokenTable | Smart Contract Audit | Solidity | ECDSA Token Distributor |  [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/015_CODESPECT_TOKENTABLE_ECDSA_DISTRIBUTOR.pdf) |
-| 016-TokenTable | Smart Contract Audit | Solidity | Merkle TOken Distributor | In Progress |
+| 016-TokenTable | Smart Contract Audit | Solidity | Merkle TOken Distributor |[📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/016_CODESPECT_TOKENTABLE_MERKLE_DISTRIBUTOR.pdf) |
 | 017-Swell| Smart Contract Audit | Solidity | Repricing Oracle Update |  [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/017_CODESPECT_SWELL_REPRICING_UPDATE.pdf) |
 
 
