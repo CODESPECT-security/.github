@@ -30,12 +30,18 @@ We leverage a range of technologies to provide top-notch security services:
 ![Starknet](https://img.shields.io/badge/Starknet-000000?style=for-the-badge&logo=starknet&logoColor=white) 
 ![Fuel](https://img.shields.io/badge/Fuel-000000?style=for-the-badge&logo=fuel&logoColor=white)  
 ![Solana](https://img.shields.io/badge/Solana-4E44CE?style=for-the-badge&logo=solana&logoColor=white)
+![Sui](https://img.shields.io/badge/Sui-4DA2FF?style=for-the-badge&logo=sui&logoColor=white)
+![TON](https://img.shields.io/badge/TON-0098DC?style=for-the-badge&logo=ton&logoColor=white)
+
 
 **Programming Languages:**  
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)  
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)  
-![Cairo](https://img.shields.io/badge/Cairo-4A4A4A?style=for-the-badge&logo=starknet&logoColor=white)
+![Cairo](https://img.shields.io/badge/Cairo-4E4E4E?style=for-the-badge&logo=starknet&logoColor=white)
 ![Sway](https://img.shields.io/badge/Sway-4A4A4A?style=for-the-badge&logo=fuelt&logoColor=white)
+![FUNC](https://img.shields.io/badge/FUNC-0098DC?style=for-the-badge&logo=ton&logoColor=white)
+![Move](https://img.shields.io/badge/Move-4DA2FF?style=for-the-badge&logo=sui&logoColor=white)
+
 
 ---
 
