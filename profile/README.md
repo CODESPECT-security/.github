@@ -75,6 +75,7 @@ We aim to empower blockchain projects by delivering **cutting-edge, security-foc
 | 017-Swell| Smart Contract Audit | Solidity | Repricing Oracle Update |  [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/017_CODESPECT_SWELL_REPRICING_UPDATE.pdf) |
 | 018-Typhoon| Smart Contract Audit | Cairo | Token Mixer Contracts |  [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/018_CODESPECT_TYPHOON.pdf) |
 | 019-TokenTable| Smart Contract Audit | Rust/Solana | EDDSA Token Distributor |  [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/019_CODESPECT_TOKENTABLE_SOLANA_EDDSA.pdf) |
+| 020-Sign| Smart Contract Audit | Solidity | Staking Contract |  [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/020_CODESPECT_SIGN_STAKINGCONTRACT.pdf) |
 
 
 ---
