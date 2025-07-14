@@ -76,6 +76,11 @@ We aim to empower blockchain projects by delivering **cutting-edge, security-foc
 | 018-Typhoon| Smart Contract Audit | Cairo | Token Mixer Contracts |  [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/018_CODESPECT_TYPHOON.pdf) |
 | 019-TokenTable| Smart Contract Audit | Rust/Solana | EDDSA Token Distributor |  [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/019_CODESPECT_TOKENTABLE_SOLANA_EDDSA.pdf) |
 | 020-Sign| Smart Contract Audit | Solidity | Staking Contract |  [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/020_CODESPECT_SIGN_STAKINGCONTRACT.pdf) |
+| 021-TokenTable | Smart Contract Audit | Solidity | Unlockers | [📄 Report Not Public](#) |
+| 022-Kapan Finance | Smart Contract Audit | Cairo | Not Public | [📄 Report Not Public](#) |
+| 023-Hyperwave | Smart Contract Audit | Solidity | Forwarder | [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/023_CODESPECT_SWELL_HYPERLIQUID_FORWARDER.pdf) |
+| 024-Hyperwave | Smart Contract Audit/White Box Pentest | Solidity/Python | Tokenisation of the HLP/Bot solver | [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/024_CODESPECT_HYPERWAVE_SOLVER_OFF_CHAIN_BOT.pdf) |
+| 025-TokenTable | Smart Contract Audit | Solidity | New Merkle Unlocker Version | [📄 Report Not Public](#) |
 
 
 ---
