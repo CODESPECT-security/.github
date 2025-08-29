@@ -80,7 +80,12 @@ We aim to empower blockchain projects by delivering **cutting-edge, security-foc
 | 022-Kapan Finance | Smart Contract Audit | Cairo | Not Public | [📄 Report Not Public](#) |
 | 023-Hyperwave | Smart Contract Audit | Solidity | Forwarder | [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/023_CODESPECT_SWELL_HYPERLIQUID_FORWARDER.pdf) |
 | 024-Hyperwave | Smart Contract Audit/White Box Pentest | Solidity/Python | Tokenisation of the HLP/Bot solver | [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/024_CODESPECT_HYPERWAVE_SOLVER_OFF_CHAIN_BOT.pdf) |
-| 025-TokenTable | Smart Contract Audit | Solidity | New Merkle Unlocker Version | [📄 Report Not Public](#) |
+| 025-TokenTable | Smart Contract Audit | Solidity | New Merkle Unlocker Version | [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/025_CODESPECT_TOKENTABLE_MERKLE_WITH_FEES.pdf) |
+| 026-HypurrStake | Smart Contract Audit | Solidity | LST on HyperEvm | In Progress |
+| 027-DeAura | Smart Contract Audit & Penetration testing | Rust/TypeScript | ---- | In Progress|
+| 028-Hyperwave | Smart Contract Audit | Solidity | CoreWriter interactions on HyperEVM | [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/028_CODESPECT_HYPERWAVE_COREWRITER.pdf)  |
+| 029-TokenTable | Smart Contract Audit & Penetration testing | Move | ECDSA Token Distributor | [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/029_CODESPECT_TOKENTABLE_SUI.pdf)|
+| 030-TokenTable | Smart Contract Audit & Penetration testing | Solidity | Merkle Token Distributor Extension | In Progress|
 
 
 ---
