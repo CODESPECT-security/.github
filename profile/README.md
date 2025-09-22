@@ -85,7 +85,8 @@ We aim to empower blockchain projects by delivering **cutting-edge, security-foc
 | 027-DeAura | Smart Contract Audit & Penetration testing | Rust/TypeScript | ---- | In Progress|
 | 028-Hyperwave | Smart Contract Audit | Solidity | CoreWriter interactions on HyperEVM | [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/028_CODESPECT_HYPERWAVE_COREWRITER.pdf)  |
 | 029-TokenTable | Smart Contract Audit & Penetration testing | Move | ECDSA Token Distributor | [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/029_CODESPECT_TOKENTABLE_SUI.pdf)|
-| 030-TokenTable | Smart Contract Audit & Penetration testing | Solidity | Merkle Token Distributor Extension | In Progress|
+| 030-TokenTable | Smart Contract Audit | Solidity | Merkle Token Distributor Extension | [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/030_CODESPECT_TOKENTABLE_BATCHED_MERKLE.pdf)|
+| 031-Sherlock-Vesu | Smart Contract Audit | Cairo | Boring Vault Design | [📄 Report Not Public](#) |
 
 
 ---
