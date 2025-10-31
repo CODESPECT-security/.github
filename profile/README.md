@@ -88,9 +88,14 @@ We aim to empower blockchain projects by delivering **cutting-edge, security-foc
 | 030-TokenTable | Smart Contract Audit | Solidity | Merkle Token Distributor Extension | [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/030_CODESPECT_TOKENTABLE_BATCHED_MERKLE.pdf)|
 | 031-Sherlock-Vesu (Starknet vault kit) | Smart Contract Audit | Cairo | Boring Vault Design | Collaboration with Sherlock -> [📄 View Report](https://github.com/sherlock-protocol/sherlock-reports/blob/main/audits/2025_09_23_Final_Vesu_Starknet_Vault_Kit_Collaborative_Audit_Report.pdf) |
 | 032-BetterBank | Smart Contract Audit | Solidity | Lending & Borrowing | [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/032_CODESPECT_BETTERBANK.pdf) |
+| 033-NON PUBLIC | Smart Contract Audit | Rust/Solana | XXXX | [📄Not Public]() |
 | 034-LSTOLAS | Smart Contract Audit | Solidity | Cross-chain Liquid Staking | [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/034_CODESPECT_LSTOLAS.pdf) |
 | 035-Sherlock-VesuVaults | Smart Contract Audit | Cairo | Periphery contracts | Collaboration with Sherlock -> [📄 Soon]() |
+| 037-NON PUBLIC | Smart Contract Audit | Rust/Solana | XXXX | [📄Not Public]() |
 | 038-Carina | Smart Contract Audit | Solidity | Intent Based DEX Aggregator | [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/038_CODESPECT_CARINA.pdf) |
+| 039-NON PUBLIC | Smart Contract Audit | Rust/Solana | XXXX | [📄Not Public]() |
+| 040-NON PUBLIC | Smart Contract Audit | Rust/Solana | XXXX | [📄Not Public]() |
+| 041-AlphaHYPE | Smart Contract Audit | Solidity | LST on HyperEVM | [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/041_CODESPECT_AlphaHYPE.pdf) |
 
 
 ---
