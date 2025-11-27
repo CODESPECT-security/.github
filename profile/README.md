@@ -1,12 +1,12 @@
 # 🛡️ CODESPECT
 
-Welcome to **CODESPECT** – your trusted partner in blockchain security. We specialize in providing comprehensive smart contract audits and infrastructure penetration testing to ensure the robustness of your decentralized applications.
+Welcome to **CODESPECT** – your trusted partner in blockchain security. We specialise in providing comprehensive smart contract audits and infrastructure penetration testing to ensure the robustness of your decentralised applications.
 
 ---
 
 ## 🚀 About Us
 
-At **CODESPECT**, our mission is to safeguard blockchain ecosystems by delivering top-tier security services. Our team is originating from former private firms employees and auditors from competitive platforms to unite the best detail of review with the dig deep bug hunting.
+At **CODESPECT**, our mission is to safeguard blockchain ecosystems by delivering top-tier security services. Our team originates from former private firms' employees and auditors from competitive platforms to unite the best details of review with deep bug hunting.
 
 ---
 
@@ -15,13 +15,13 @@ At **CODESPECT**, our mission is to safeguard blockchain ecosystems by deliverin
 We guide you through every step of your journey, from the early stages of smart contract development to securing your entire infrastructure, ensuring your project is resilient and fully protected.
 
 - **Smart Contract Auditing:** We conduct thorough security assessments to identify vulnerabilities and ensure contracts function as intended across multiple blockchain platforms.
-- **Secure Design & Architecture Consultancy:** We provide strategic guidance to help teams build secure, scalable decentralized applications from inception.
+- **Secure Design & Architecture Consultancy:** We provide strategic guidance to help teams build secure, scalable, decentralised applications from inception.
 - **Tailored Cybersecurity Solutions:** Our team addresses traditional attack vectors like phishing and social engineering, enhancing the overall security of blockchain-based applications.
 
 With a focus on innovation and security, CODESPECT is your trusted partner at every stage of blockchain development.
 ---
 
-## 🛠️ Technologies We Specialize In
+## 🛠️ Technologies We Specialise In
 
 We leverage a range of technologies to provide top-notch security services:
 
@@ -31,7 +31,7 @@ We leverage a range of technologies to provide top-notch security services:
 ![Fuel](https://img.shields.io/badge/Fuel-000000?style=for-the-badge&logo=fuel&logoColor=white)  
 ![Solana](https://img.shields.io/badge/Solana-4E44CE?style=for-the-badge&logo=solana&logoColor=white)
 ![Sui](https://img.shields.io/badge/Sui-4DA2FF?style=for-the-badge&logo=sui&logoColor=white)
-![TON](https://img.shields.io/badge/TON-0098DC?style=for-the-badge&logo=ton&logoColor=white)
+
 
 
 **Programming Languages:**  
@@ -39,7 +39,6 @@ We leverage a range of technologies to provide top-notch security services:
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)  
 ![Cairo](https://img.shields.io/badge/Cairo-4E4E4E?style=for-the-badge&logo=starknet&logoColor=white)
 ![Sway](https://img.shields.io/badge/Sway-4A4A4A?style=for-the-badge&logo=fuelt&logoColor=white)
-![FUNC](https://img.shields.io/badge/FUNC-0098DC?style=for-the-badge&logo=ton&logoColor=white)
 ![Move](https://img.shields.io/badge/Move-4DA2FF?style=for-the-badge&logo=sui&logoColor=white)
 
 
