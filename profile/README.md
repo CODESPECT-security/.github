@@ -92,9 +92,10 @@ We aim to empower blockchain projects by delivering **cutting-edge, security-foc
 | 035-Sherlock-Vesu-Vaults | Smart Contract Audit | Cairo | Periphery contracts | Collaboration with Sherlock -> [📄 View Report](https://github.com/sherlock-protocol/sherlock-reports/blob/main/audits/2025.10.31%20-%20Final%20-%20Vesu%20Vaults%20Collaborative%20Audit%20Report%201761914943.pdf) |
 | 037-NON PUBLIC | Smart Contract Audit | Rust/Solana | XXXX | [📄Not Public]() |
 | 038-Carina | Smart Contract Audit | Solidity | Intent Based DEX Aggregator | [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/038_CODESPECT_CARINA.pdf) |
-| 039-NON PUBLIC | Smart Contract Audit | Rust/Solana | XXXX | [📄Not Public]() |
+| 039-Votex-LGT | Smart Contract Audit | Rust/Solana | Liquid Governance Token | [📄Not Public](https://github.com/CODESPECT-security/audit-reports/blob/main/039_CODESPECT_Votex_LGT.pdf) |
 | 040-NON PUBLIC | Smart Contract Audit | Rust/Solana | XXXX | [📄Not Public]() |
 | 041-AlphaHYPE | Smart Contract Audit | Solidity | LST on HyperEVM | [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/041_CODESPECT_AlphaHYPE.pdf) |
+| 045-Canopy | Smart contract Audit | Rust/Solana | Investment platform | [ View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/045_CODESPECT_CANOPY.pdf) |
 
 
 ---
