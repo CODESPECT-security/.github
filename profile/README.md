@@ -25,18 +25,18 @@ With a focus on innovation and security, CODESPECT is your trusted partner at ev
 
 We leverage a range of technologies to provide top-notch security services:
 
-**Blockchain Platforms:**  
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)  
-![Starknet](https://img.shields.io/badge/Starknet-000000?style=for-the-badge&logo=starknet&logoColor=white) 
-![Fuel](https://img.shields.io/badge/Fuel-000000?style=for-the-badge&logo=fuel&logoColor=white)  
+**Blockchain Platforms:**
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white) 
+![Starknet](https://img.shields.io/badge/Starknet-000000?style=for-the-badge&logo=starknet&logoColor=white)
+![Fuel](https://img.shields.io/badge/Fuel-000000?style=for-the-badge&logo=fuel&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-4E44CE?style=for-the-badge&logo=solana&logoColor=white)
 ![Sui](https://img.shields.io/badge/Sui-4DA2FF?style=for-the-badge&logo=sui&logoColor=white)
 
 
 
-**Programming Languages:**  
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)  
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)  
+**Programming Languages:**
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) 
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Cairo](https://img.shields.io/badge/Cairo-4E4E4E?style=for-the-badge&logo=starknet&logoColor=white)
 ![Sway](https://img.shields.io/badge/Sway-4A4A4A?style=for-the-badge&logo=fuelt&logoColor=white)
 ![Move](https://img.shields.io/badge/Move-4DA2FF?style=for-the-badge&logo=sui&logoColor=white)
@@ -50,7 +50,7 @@ We aim to empower blockchain projects by delivering **cutting-edge, security-foc
 
 ---
 
-## 📂 Finished Reviews 
+## 📂 Finished Reviews
 
 | Name                | Type of Review            | Language         | Type of Protocol           | Report                                   |
 |--------------------|---------------------------|------------------|----------------------------|------------------------------------------|
@@ -76,7 +76,7 @@ We aim to empower blockchain projects by delivering **cutting-edge, security-foc
 | 019-TokenTable| Smart Contract Audit | Rust/Solana | EDDSA Token Distributor |  [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/019_CODESPECT_TOKENTABLE_SOLANA_EDDSA.pdf) |
 | 020-Sign| Smart Contract Audit | Solidity | Staking Contract |  [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/020_CODESPECT_SIGN_STAKINGCONTRACT.pdf) |
 | 021-TokenTable | Smart Contract Audit | Solidity | Unlockers | [📄 Report Not Public](#) |
-| 022-Kapan Finance | Smart Contract Audit | Cairo | Not Public | [📄 Report Not Public](#) |
+| 022-Kapan Finance | Smart Contract Audit | Cairo | Lending & Borrowing | [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/022_CODESPECT_KAPAN_FINANCE.pdf) |
 | 023-Hyperwave | Smart Contract Audit | Solidity | Forwarder | [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/023_CODESPECT_SWELL_HYPERLIQUID_FORWARDER.pdf) |
 | 024-Hyperwave | Smart Contract Audit/White Box Pentest | Solidity/Python | Tokenisation of the HLP/Bot solver | [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/024_CODESPECT_HYPERWAVE_SOLVER_OFF_CHAIN_BOT.pdf) |
 | 025-TokenTable | Smart Contract Audit | Solidity | New Merkle Unlocker Version | [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/025_CODESPECT_TOKENTABLE_MERKLE_WITH_FEES.pdf) |
@@ -90,12 +90,17 @@ We aim to empower blockchain projects by delivering **cutting-edge, security-foc
 | 033-NON PUBLIC | Smart Contract Audit | Rust/Solana | XXXX | [📄Not Public]() |
 | 034-LSTOLAS | Smart Contract Audit | Solidity | Cross-chain Liquid Staking | [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/034_CODESPECT_LSTOLAS.pdf) |
 | 035-Sherlock-Vesu-Vaults | Smart Contract Audit | Cairo | Periphery contracts | Collaboration with Sherlock -> [📄 View Report](https://github.com/sherlock-protocol/sherlock-reports/blob/main/audits/2025.10.31%20-%20Final%20-%20Vesu%20Vaults%20Collaborative%20Audit%20Report%201761914943.pdf) |
+| 036-EVA | Smart Contract Audit | Solidity | ERC20 | [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/036_CODESPECT_EVA.pdf) |
 | 037-NON PUBLIC | Smart Contract Audit | Rust/Solana | XXXX | [📄Not Public]() |
 | 038-Carina | Smart Contract Audit | Solidity | Intent Based DEX Aggregator | [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/038_CODESPECT_CARINA.pdf) |
 | 039-Votex-LGT | Smart Contract Audit | Rust/Solana | Liquid Governance Token | [📄Not Public](https://github.com/CODESPECT-security/audit-reports/blob/main/039_CODESPECT_Votex_LGT.pdf) |
-| 040-NON PUBLIC | Smart Contract Audit | Rust/Solana | XXXX | [📄Not Public]() |
+| 040-The Vault | Smart Contract Audit | Rust/Solana | Liquid Unstaker V2 | [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/040_CODESPECT_THE_VAULT_LIQUID_UNSTAKER_V2.pdf) |
 | 041-AlphaHYPE | Smart Contract Audit | Solidity | LST on HyperEVM | [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/041_CODESPECT_AlphaHYPE.pdf) |
-| 045-Canopy | Smart contract Audit | Rust/Solana | Investment platform | [ View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/045_CODESPECT_CANOPY.pdf) |
+| 045-Canopy | Smart contract Audit | Rust/Solana | Investment platform | [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/045_CODESPECT_CANOPY.pdf) |
+| 049-Dutch | Smart Contract Audit | Solidity| NFT Auction Platform (Bonding curve) | [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/049_CODESPECT_DUTCH.pdf) |
+| 053-Aegis DFF | Smart Contract Audit | Solidity | ERC4626, UniswapV4, Custom Hooks | [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/053_CODESPECT_AEGIS_DFF.pdf) |
+| 054-MaitMe | Smart Contract Audit | Solidity | Staking | [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/054_CODESPECT_MAITME.pdf) |
+| 058-Ignition Fogo Locker | Smart Contract Audit | Rust/Solana | Vesting, Fogo sessions | [📄 View Report](https://github.com/CODESPECT-security/audit-reports/blob/main/058_CODESPECT_IGNITION_FOGO_LOCKER.pdf) |
 
 
 ---
